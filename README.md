@@ -1,2 +1,2 @@
 # hello-word
-I'm leaning to create repository 
+I'm learning to create repository 
